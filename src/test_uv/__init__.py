@@ -7,13 +7,4 @@
 #  @Reference:
 #  @Copyright (c) 2026 by Johnston, All Rights Reserved.
 #  ...
-
-
-# src/test_uv/__init__.py
-"""test_uv - 你的包描述"""
-
-
 from .core import greet, add_numbers
-
-# __all__ = ["greet", "add_numbers"]
-__version__ = "0.1.0"
